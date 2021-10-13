@@ -1,0 +1,7 @@
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\bin\Debug\SistemaIMCS.exe.config
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\bin\Debug\SistemaIMCS.exe
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\bin\Debug\SistemaIMCS.pdb
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\obj\Debug\SistemaIMCS.csprojAssemblyReference.cache
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\obj\Debug\SistemaIMCS.csproj.CoreCompileInputs.cache
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\obj\Debug\SistemaIMCS.exe
+C:\Git\Pessoal\Desktop\C#\SistemaIMC\SistemaIMCS\SistemaIMCS\obj\Debug\SistemaIMCS.pdb
